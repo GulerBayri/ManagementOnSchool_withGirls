@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.069" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Students choose lesson, grades and announcement" name="US_21 Students choose lesson, grades and announcement - Example #1.1" time="5.76">
+<system-out><![CDATA[
+Given sent getAll request by lessonName "Flesson"...........................passed
+Then student should be able to see the day "MONDAY", lesson_name "Flesson", start_time "15:00:00", stop Time "18:00:00" in body.passed
+]]></system-out>
+</testcase>
+</testsuite>
